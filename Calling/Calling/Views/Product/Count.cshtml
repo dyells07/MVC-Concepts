@@ -1,0 +1,79 @@
+﻿﻿@{
+    ViewData["Title"] = "Signal R";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <label>Count</label>
+        </div>
+        <div class="col-6">
+            <label>Minute</label>
+        </div>
+        <div class="col-6">
+            <span id="productCount">0</span>
+        </div>
+        <div class="col-6">
+            <span id="timer"></span>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-6">
+            &nbsp;
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <label>Products</label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        
+        var connection = new signalR.HubConnectionBuilder().withUrl("/itemHub").build();
+        document.getElementById("timer").innerHTML = 0;
+
+        connection.on("ReceiveProduct", function (productName, count) {
+            var minute = parseInt(document.getElementById("timer").innerHTML);
+            if (minute == 0) {
+                document.getElementById("timer").innerHTML = 1;
+                countTimeStart();
+            }
+            var li = document.createElement("li");
+            document.getElementById("messagesList").appendChild(li);
+            li.textContent = `${productName}`;
+            document.getElementById("productCount").innerHTML = count;
+        });
+
+        connection.start().then(function () {
+            //document.getElementById("sendButton").disabled = false;
+        }).catch(function (err) {
+            return console.error(err.toString());
+        });
+
+        var x;
+        function countTimeStart() {
+            x = setInterval(function () {
+                document.getElementById("timer").innerHTML = parseInt(document.getElementById("timer").innerHTML) + 1;
+            }, 60000);
+        }
+        function countTimeStop() {
+            if (x != undefined) {
+                clearInterval(x);
+            }
+        }
+
+    </script>
+}
+
+

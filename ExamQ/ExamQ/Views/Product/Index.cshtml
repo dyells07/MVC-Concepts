@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ExamQ.Models.ProductModel>
+
+@{
+    ViewData["Title"] = "Product";
+}
+<head>
+    <link rel="stylesheet" href="~/css/index.css" />
+</head>
+
+<h2>Product</h2>
+<h4>Product</h4>
+<hr/>
+<div>
+    <a asp-action="ProductCreate" class="btn btn-primary">Add New Product</a>
+</div>
+<div class="row">
+
+    <table class=" table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Despriction</th>
+                <th>Cost of Product</th>
+                <th>Stock</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model==null)
+            {
+                <tr>
+                    <td colspan="7" class="text-center">Not data Found</td>
+                </tr>
+            }
+            else
+            {
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.ProductName</td>
+                        <td>@item.ProductDescription</td>
+                        <td>@item.ProductCost</td>
+                        <td>@item.Stock</td>
+                        <td><button class="btn btn-light btm-sm"> <a asp-action="Edit" asp-route-id="@item.Id">Update</a></button></td>
+                        <td>
+                            <form asp-action="ProductDelete" method="post" asp-route-id="@item.Id">
+                                <button class="btn btn-danger btn-sm">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

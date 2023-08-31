@@ -1,0 +1,84 @@
+﻿﻿@{
+    ViewData["Title"] = "Signal R";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <label>Count</label>
+        </div>
+        <div class="col-6">
+            <label>Minute</label>
+        </div>
+        <div class="col-6">
+            <span id="productCount">0</span>
+        </div>
+        <div class="col-6">
+            <span id="timer"></span>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-6">
+            &nbsp;
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <label>Products</label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script>
+        var connection = new signalR.HubConnectionBuilder().withUrl("/productHub").build();
+        document.getElementById("timer").innerHTML = 0;
+
+        connection.on("ReceiveProduct", function (productName, count) {
+            var minute = parseInt(document.getElementById("timer").innerHTML);
+            if (minute == 0) {
+                document.getElementById("timer").innerHTML = 1;
+                countTimeStart();
+            }
+            var li = document.createElement("li");
+            document.getElementById("messagesList").appendChild(li);
+            // We can assign user-supplied strings to an element's textContent because it
+            // is not interpreted as markup. If you're assigning in any other way, you
+            // should be aware of possible script injection concerns.
+            li.textContent = `${productName}`;
+            document.getElementById("productCount").innerHTML = count;
+        });
+        connection.on("ReceiveResetProduct", function () {
+
+            document.getElementById("timer").innerHTML = 0;
+            countTimeStop();
+            document.getElementById("messagesList").innerHTML = "";
+            document.getElementById("productCount").innerHTML = 0;
+        });
+        connection.start().then(function () {
+            //document.getElementById("sendButton").disabled = false;
+        }).catch(function (err) {
+            return console.error(err.toString());
+        });
+
+        var x;
+        function countTimeStart() {
+            x = setInterval(function () {
+                document.getElementById("timer").innerHTML = parseInt(document.getElementById("timer").innerHTML) + 1;
+            }, 60000);
+        }
+        function countTimeStop() {
+            if (x != undefined) {
+                clearInterval(x);
+            }
+        }
+
+    </script>
+}

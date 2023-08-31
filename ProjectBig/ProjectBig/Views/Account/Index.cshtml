@@ -1,0 +1,50 @@
+﻿
+@model UserInfo
+@if (TempData["ErrorMessage"] != null)
+{
+	<div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<div class="row">
+	<div class="d-flex justify-content-center">
+		<div class="col col-md-6" style="padding: 20px">
+			<section>
+				<form id="account" method="post">
+					<h2>Welcome Back!</h2>
+					<hr />
+					<div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+					<div class="form-floating mb-3">
+						<input asp-for="username" class="form-control" autocomplete="username" aria-required="true" placeholder="username " />
+						<label asp-for="username" class="form-label">Username</label>
+						
+					</div>
+					<div class="form-floating mb-3">
+						<input asp-for="password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
+						<label asp-for="password" class="form-label">Password</label>
+						<span asp-validation-for="password" class="text-danger"></span>
+					</div>
+					<div>
+						<button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
+					</div>
+				<div>
+						@* <p>
+							<a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+						</p> *@
+						<p>
+							Do not have a account ? <a asp-action="Register"> Signup</a>
+						</p>
+						@* <p>
+							<a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
+						</p> *@
+					</div>
+				</form>
+			</section>
+		</div>
+	</div>
+
+</div>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

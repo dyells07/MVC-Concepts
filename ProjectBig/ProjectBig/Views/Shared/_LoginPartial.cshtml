@@ -1,0 +1,28 @@
+﻿
+<ul class="navbar-nav flex-grow-1">
+    @if (ViewContext.HttpContext.Request.Cookies["username"] != null)
+    {
+        <partial name="_Cart" />
+        <li class="nav-item">
+
+            <a id="manage" class="nav-link" href="@Url.Action("GetUserProfile", "Profile", new { username = ViewContext.HttpContext.Request.Cookies["username"] })" title="Manage">&#x1F44B; @ViewContext.HttpContext.Request.Cookies["username"]!</a>
+        </li>
+
+
+        <form asp-controller="Account" asp-action="Logout" method="post">
+            <button id="logout" type="submit" class="nav-link btn btn-link border-0">Logout</button>
+        </form>
+
+    }
+
+
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Index">Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">Sign Up</a>
+        </li>
+    }
+</ul>

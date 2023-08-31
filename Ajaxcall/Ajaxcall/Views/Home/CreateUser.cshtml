@@ -1,0 +1,50 @@
+﻿@model Ajaxcall.ViewModels.UserFileViewModel
+
+<form asp-action="CreateUser" method="post" enctype="multipart/form-data">
+
+<form asp-action="CreateUser" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="fname">First Name</label>
+        <input type="text" class="form-control" id="fname" name="User.fname" required>
+    </div>
+    <div class="form-group">
+        <label for="lname">Last Name</label>
+        <input type="text" class="form-control" id="lname" name="User.lname" required>
+    </div>
+    <div class="form-group">
+        <label for="profilePicture">Profile Picture</label>
+        <input type="hidden" class="form-control" id="profileLink" name="User.ProfilePicture">
+        <input type="file" class="form-control-file" id="profilePictureInput" name="File.FileLink">
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+
+
+<script>
+
+    $('#profilePictureInput').change(function () {
+        var fileInput = $('#profilePictureInput')[0];
+        var file = fileInput.files[0];
+        var formData = new FormData();
+        formData.append('File', file);
+        formData.append('Name', file.name);
+
+        $.ajax({
+            url: '/UploadFile/UploadFile',
+            type: 'POST',
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (result) {
+                $('#profilePictureInput').attr("data-file", result);
+                $('#profileLink').value(result);
+            },
+            error: function (xhr, status, error) {
+                // Handle errors here
+                console.log(error);
+            }
+        });
+    });
+
+    </script>

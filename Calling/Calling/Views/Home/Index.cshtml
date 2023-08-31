@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Calling.Models.UserModel>
+
+<div class="container rounded bg-white mt-5">
+    <div class="row">
+        <div class="col-md-4 border-right">
+            <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                @*<img class="rounded-circle mt-5" src="~/uploads/@Model.First().ProfilePicture" width="90">
+                <span class="font-weight-bold">@Model.First().fname @Model.First().lname</span>*@
+                @{
+                    var lastUser = Model.LastOrDefault(); // Retrieve the last user
+                }
+                @if (lastUser != null)
+                {
+                    <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                        <img class="rounded-circle mt-5" src="~/uploads/@lastUser.ProfilePicture" width="90">
+                        <span class="font-weight-bold">@lastUser.fname @lastUser.lname</span>
+                    </div>
+                }
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="p-3 py-5">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>Profile Picture</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var user in Model)
+                            {
+                                <tr>
+                                    <td>@user.id</td>
+                                    <td>@user.fname</td>
+                                    <td>@user.lname</td>
+                                    <td><img src="~/uploads/@user.ProfilePicture" width="50"></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

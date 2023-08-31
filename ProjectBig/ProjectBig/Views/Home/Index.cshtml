@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ProjectBig.Models.ItemModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container-fluid">
+    <div class="row justify-content-end">
+        <div class="col-auto">
+        </div>
+    </div>
+
+</div>
+
+<br />
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/1.png" class="card-img-top" alt="Product Image" height="250" width="10" style="padding: 30px">
+
+                <div class="card-body">
+                    <h5 class="card-title">@item.ProductName</h5>
+                    <p class="card-text">Product Description: @item.ProductDescription</p>
+                    <p class="card-text">Price: RS:@item.ProductCost</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .title {
+        text-align: center;
+        color: darkslategrey;
+        text-transform: uppercase;
+    }
+</style>
+
+

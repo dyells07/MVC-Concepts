@@ -1,0 +1,96 @@
+﻿@model UserInfo
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>Create User</h2>
+
+@if (!String.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-danger">@ViewBag.Message</div>
+}
+
+<div class="row">
+    <div class="d-flex justify-content-center">
+        <div class="col col-md-6" style="padding: 20px">
+            <form asp-controller="Account" asp-action="RegisterUser" method="post">
+                <h2>Create a new account.</h2>
+                <hr />
+                <div asp-validation-summary="All" class="text-danger" role="alert"></div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-floating mb-3">
+                            <input asp-for="fname" class="form-control" autocomplete="given-name" placeholder="First Name" required />
+                            <label asp-for="fname">First Name</label>
+                            <span asp-validation-for="fname" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-floating mb-3">
+                            <input asp-for="lname" class="form-control" autocomplete="family-name" placeholder="Last Name" required />
+                            <label asp-for="lname">Last Name</label>
+                            <span asp-validation-for="lname" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="username" class="form-control" autocomplete="username" placeholder="Username" required />
+                    <label asp-for="username">Username</label>
+                    <span asp-validation-for="username" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="email" class="form-control" autocomplete="email" type="email" placeholder="Email" required />
+                    <label asp-for="email">Email</label>
+                    <span asp-validation-for="email" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="age" class="form-control" autocomplete="age" type="number" placeholder="Age" min="18" required />
+                    <label asp-for="age">Age</label>
+                    <span asp-validation-for="age" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="phoneno" class="form-control" autocomplete="tel" placeholder="Phone Number" required />
+                    <label asp-for="phoneno">Phone Number</label>
+                    <span asp-validation-for="phoneno" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input asp-for="password" id="password" class="form-control" autocomplete="new-password" type="password" placeholder="Password" required />
+                    <label asp-for="password">Password</label>
+                    <span asp-validation-for="password" class="text-danger"></span>
+                </div>
+                <div class="form-floating mb-3">
+                    <input name="confirmPassword" id="confirmPassword" class="form-control" type="password" placeholder="Confirm Password" required />
+                    <label>Confirm Password</label>
+                </div>
+
+                <button type="submit" class="w-100 btn btn-lg btn-primary">Signup</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $('#confirmPassword').on('keyup', function () {
+        var password = $('#password').val();
+        var confirmPassword = $(this).val();
+
+        if (password === confirmPassword) {
+            $(this).removeClass('is-invalid');
+            $(this).addClass('is-valid');
+        } else {
+            $(this).removeClass('is-valid');
+            $(this).addClass('is-invalid');
+        }
+    });
+
+    $('form').submit(function (e) {
+        var password = $('#password').val();
+        var confirmPassword = $('#confirmPassword').val();
+
+        if (password !== confirmPassword) {
+            e.preventDefault();
+            $('#confirmPassword').addClass('is-invalid');
+        }
+    });
+</script>

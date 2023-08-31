@@ -1,0 +1,255 @@
+﻿@model UserInfo
+@using Microsoft.AspNetCore.Http
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<div class="container rounded bg-white mt-5">
+    <div class="row">
+        <div class="col-md-4 border-right">
+            <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                <img class="rounded-circle mt-5" src="@Model.ProfilePicture" width="90">
+                <span class="font-weight-bold">@Model.fname @Model.lname</span>
+                <span class="text-black-50">@Model.email</span>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="p-3 py-5">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <div class="d-flex flex-row align-items-center back">
+                        <i class="fa fa-long-arrow-left mr-1 mb-1"></i>
+                        <h6>Back to home</h6>
+                    </div>
+                    <h6 class="text-right">Edit Profile</h6>
+                </div>
+                <div class="row mt-2">
+                    <div class="col-md-6">
+                        <input type="text" class="form-control" name="fname" placeholder="First name" value="@Model.fname">
+                    </div>
+                    <div class="col-md-6">
+                        <input type="text" class="form-control" name="lname" placeholder="Last name" value="@Model.lname">
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <input type="text" class="form-control" name="email" placeholder="Email" value="@Model.email">
+                    </div>
+                   @* <div class="col-md-6">
+                        <input name="profilePicture" type="file" class="form-control" placeholder="Profile Pic" value="@Model.ProfilePicture">
+                    </div>*@
+                </div>
+                <div class="mt-5 text-right">
+                    <button class="btn btn-primary profile-button" type="button" onclick="updateProfile()">Save Profile</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  @*  <div class="row mt-3">
+        <div class="col-md-8 offset-md-4">
+            <div class="p-3 py-5">
+                <h6>Update Profile Picture</h6>
+                <form method="post" enctype="multipart/form-data" action="@Url.Action("UpdateProfilePicture", "Profile")">
+                 
+                    <!-- Hidden input field for username -->
+                    <input type="file" name="profilePicture" id="profilePictureInput" accept="image/*">
+                    <input type="text" name="profileLink" id="profileLink" class="d-none" value="profileLink">*
+                    <input type="text" asp-for="ProfilePicture" id="profileLink" autocomplete="off" class="d-none" name="ProfilePicture" value="profileLink" />
+
+                    <img id="previewProfilePicture" src="#" alt="Preview" style="width: 60px; height: 60px;">
+                    <button id="uploadProfilePictureButton" type="button">Upload</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+*@
+    <div class="row mt-3">
+        <div class="col-md-8 offset-md-4">
+            <div class="p-3 py-5">
+                <h6>Update Profile Picture</h6>
+                <form method="post" enctype="multipart/form-data" action="@Url.Action("UpdateProfilePicture", "Profile")">
+                    <input asp-for="username" class="form-control d-none"  />
+                    <input type="file" name="profilePicture" id="profilePictureInput" accept="image/*">
+                    <input for="ProfilePicture" type="text" name="profileLink" id="profileLink" value="@Model.ProfilePicture">
+
+                    <img id="previewProfilePicture" src="#" alt="Preview" style="width: 60px; height: 60px;">
+                    <button id="uploadProfilePictureButton" type="button">Upload</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+
+    //$("#profilePictureInput").change(function () {
+    //    debugger;
+    //    console.log(this);
+    //    const file = $(this).prop('files')[0];
+    //    const fileName = file.name;
+    //    var data = {
+    //        File: file,
+    //        Name: fileName
+    //    }
+
+    //    var that = this; // Store the reference to the current element
+
+    //    $.ajax({
+    //        url: '/UploadFile/UploadFile',
+    //        type: 'POST',
+    //        data: JSON.stringify(data),
+            
+    //         success: function (response) {
+    //            console.log(response);
+    //            $(that).attr("data-file", response); // Use the stored reference to set the attribute
+    //        },
+    //        error: function (xhr, status, error) {
+    //            console.log(error);
+    //        }
+    //    });
+    //});
+
+
+
+            //$('#profilePictureInput').change(function () {
+            //    var fileInput = $('#profilePictureInput')[0];
+            //    var file = fileInput.files[0];
+            //    var formData = new FormData();
+            //    formData.append('File', file);
+            //    formData.append('Name', file.name);
+
+            //    $.ajax({
+            //        url: '/UploadFile/UploadFile',
+            //        type: 'POST',
+            //        data: formData,
+            //        processData: false,
+            //        contentType: false,
+            //        success: function (result) {
+            //            $('#profilePictureInput').attr("data-file", result);
+            //            $('#profileLink').value(result);
+            //        },
+            //        error: function (xhr, status, error) {
+            //            // Handle errors here
+            //            console.log(error);
+            //        }
+            //    });
+            //});
+
+
+
+
+    $('#profilePictureInput').change(function () {
+        var fileInput = $('#profilePictureInput')[0];
+        var file = fileInput.files[0];
+        var formData = new FormData();
+        formData.append('File', file);
+        formData.append('Name', file.name);
+
+        $.ajax({
+            url: '/UploadFile/UploadFile',
+            type: 'POST',
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function (result) {
+                $('#profilePictureInput').attr("data-file", result);
+                $('#profileLink').val(result); // Update the value of profileLink with the new profile picture value
+            },
+            error: function (xhr, status, error) {
+                // Handle errors here
+                console.log(error);
+            }
+        });
+    });
+
+
+
+
+
+
+    function updateProfile() {
+        debugger
+        // Get the values of the input fields
+        const fname = document.querySelector('input[name="fname"]').value;
+        const lname = document.querySelector('input[name="lname"]').value;
+        const email = document.querySelector('input[name="email"]').value;
+        const profilePicture = document.querySelector('input[name="profilePicture"]').files[0];
+
+        // Create a FormData object to send the form data to the server
+        const formData = new FormData();
+        formData.append('fname', fname);
+        formData.append('lname', lname);
+        formData.append('email', email);
+        formData.append('profilePicture', profilePicture);
+
+        // Send the form data to the server using AJAX
+        const xhr = new XMLHttpRequest();
+        xhr.open('POST', '/Profile/UpdateProfile', true); // Replace with the appropriate URL for your server-side endpoint
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                // Handle the success response from the server
+                const response = JSON.parse(xhr.responseText);
+                alert(response.message); // Display a success message
+            } else {
+                // Handle error response from the server
+                toastr.error('An error occurred while updating the user profile.');
+            }
+        };
+        xhr.send(formData);
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        // Get the input field and preview image elements
+        const profilePictureInput = document.getElementById('profilePictureInput');
+        const previewProfilePicture = document.getElementById('previewProfilePicture');
+
+        // Add an event listener to the input field to handle file selection
+        profilePictureInput.addEventListener('change', function (event) {
+            const file = event.target.files[0];
+
+            // Display a preview of the selected picture
+            if (file) {
+                const reader = new FileReader();
+
+                reader.onload = function (e) {
+                    previewProfilePicture.src = e.target.result;
+                };
+
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Add an event listener to the upload button to handle the upload process
+        const uploadButton = document.getElementById('uploadProfilePictureButton');
+        uploadButton.addEventListener('click', function () {
+            const file = profilePictureInput.files[0];
+
+            if (file) {
+                const formData = new FormData();
+                formData.append('profilePicture', file);
+
+                // Send the file to the server using AJAX
+                const xhr = new XMLHttpRequest();
+                xhr.open('POST', '/Profile/UpdateProfilePicture', true); // Replace with the appropriate URL for your server-side endpoint
+                xhr.onload = function () {
+                    if (xhr.status === 200) {
+                        // Handle the success response from the server
+                        const response = JSON.parse(xhr.responseText);
+                        alert(response.message); // Display a success message
+                    } else {
+                        // Handle error response from the server
+                        toastr.error('An error occurred while uploading the profile picture.');
+                    }
+                };
+                xhr.send(formData);
+            } else {
+                toastr.warning('Please select a profile picture to upload.');
+            }
+        });
+    });
+</script>

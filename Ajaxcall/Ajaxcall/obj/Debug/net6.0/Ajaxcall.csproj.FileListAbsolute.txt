@@ -1,0 +1,8 @@
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.csproj.AssemblyReference.cache
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.AssemblyInfoInputs.cache
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.AssemblyInfo.cs
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.csproj.CoreCompileInputs.cache
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.MvcApplicationPartsAssemblyInfo.cache
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.RazorAssemblyInfo.cache
+G:\Ajaxcall\Ajaxcall\obj\Debug\net6.0\Ajaxcall.RazorAssemblyInfo.cs

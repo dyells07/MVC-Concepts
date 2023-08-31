@@ -1,0 +1,15 @@
+G:\FileIO\FileIO\bin\Debug\net6.0\FileIO.exe
+G:\FileIO\FileIO\bin\Debug\net6.0\FileIO.deps.json
+G:\FileIO\FileIO\bin\Debug\net6.0\FileIO.runtimeconfig.json
+G:\FileIO\FileIO\bin\Debug\net6.0\FileIO.dll
+G:\FileIO\FileIO\bin\Debug\net6.0\FileIO.pdb
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.csproj.AssemblyReference.cache
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfoInputs.cache
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.AssemblyInfo.cs
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.csproj.CoreCompileInputs.cache
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.dll
+G:\FileIO\FileIO\obj\Debug\net6.0\refint\FileIO.dll
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.pdb
+G:\FileIO\FileIO\obj\Debug\net6.0\FileIO.genruntimeconfig.cache
+G:\FileIO\FileIO\obj\Debug\net6.0\ref\FileIO.dll

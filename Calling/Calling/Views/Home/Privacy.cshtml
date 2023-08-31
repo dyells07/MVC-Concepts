@@ -1,0 +1,28 @@
+﻿﻿@{
+    ViewData["Title"] = "Signal R";
+}
+
+@*@microsoft/signalr@latest*@
+
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-2">Product Name</div>
+        <div class="col-4"><input type="text" id="productName" /></div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-6">
+            <input type="button" id="sendButton" value="Save" />
+        </div>
+        <div class="col-6">
+            <input type="button" id="resetButton" value="Reset" />
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/product.js"></script>
+}

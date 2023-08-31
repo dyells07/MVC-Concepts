@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectBig.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectBig.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\css\\tostr.css",
+      "PackagePath": "staticwebassets\\css\\tostr.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logo.jpg"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\UserProfile\\IMG_5727.JPG",
+      "PackagePath": "staticwebassets\\images\\UserProfile\\IMG_5727.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\UserProfile\\IMG_5731.JPG",
+      "PackagePath": "staticwebassets\\images\\UserProfile\\IMG_5731.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\UserProfile\\IMG_5732.JPG",
+      "PackagePath": "staticwebassets\\images\\UserProfile\\IMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\UserProfile\\IMG_5733.JPG",
+      "PackagePath": "staticwebassets\\images\\UserProfile\\IMG_5733.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\UserProfile\\IMG_5734.JPG",
+      "PackagePath": "staticwebassets\\images\\UserProfile\\IMG_5734.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\UserProfile\\IMG_5735.JPG",
+      "PackagePath": "staticwebassets\\images\\UserProfile\\IMG_5735.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\images\\defaultCarImage.png",
+      "PackagePath": "staticwebassets\\images\\defaultCarImage.png"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\js\\tostr.js",
+      "PackagePath": "staticwebassets\\js\\tostr.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\013a64b0-eacb-4b08-b202-83ef70946863IMG_5733.JPG",
+      "PackagePath": "staticwebassets\\uploads\\013a64b0-eacb-4b08-b202-83ef70946863IMG_5733.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\0531b78f-c508-4eeb-b793-bfa918b54ad6IMG_5734.JPG",
+      "PackagePath": "staticwebassets\\uploads\\0531b78f-c508-4eeb-b793-bfa918b54ad6IMG_5734.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\0d6a02fe-60fc-4404-9d7a-ffc0452ea533IMG_5725.JPG",
+      "PackagePath": "staticwebassets\\uploads\\0d6a02fe-60fc-4404-9d7a-ffc0452ea533IMG_5725.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\0f60d118-c35b-4591-bf01-fe06e643b627IMG_5736.JPG",
+      "PackagePath": "staticwebassets\\uploads\\0f60d118-c35b-4591-bf01-fe06e643b627IMG_5736.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\13e32bdb-193c-4a0a-948a-3be4fd59db4cIMG_5730.JPG",
+      "PackagePath": "staticwebassets\\uploads\\13e32bdb-193c-4a0a-948a-3be4fd59db4cIMG_5730.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\1825b5d7-a970-427d-b989-0496a5710f01IMG_5735.JPG",
+      "PackagePath": "staticwebassets\\uploads\\1825b5d7-a970-427d-b989-0496a5710f01IMG_5735.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\1d58a2d7-41cc-40ec-93b6-7a99f5042d44IMG_5733.JPG",
+      "PackagePath": "staticwebassets\\uploads\\1d58a2d7-41cc-40ec-93b6-7a99f5042d44IMG_5733.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\1da7d231-9aa9-497f-bb26-6734d5b7d9c3IMG_5735.JPG",
+      "PackagePath": "staticwebassets\\uploads\\1da7d231-9aa9-497f-bb26-6734d5b7d9c3IMG_5735.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\22591c53-a007-4621-b89e-4cf88e66085cIMG_5732.JPG",
+      "PackagePath": "staticwebassets\\uploads\\22591c53-a007-4621-b89e-4cf88e66085cIMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\2313a67c-94c1-4b18-b49d-a447dc770950IMG_5734.JPG",
+      "PackagePath": "staticwebassets\\uploads\\2313a67c-94c1-4b18-b49d-a447dc770950IMG_5734.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\3112dbc8-c779-4655-8c9c-5db8138aef82IMG_5733.JPG",
+      "PackagePath": "staticwebassets\\uploads\\3112dbc8-c779-4655-8c9c-5db8138aef82IMG_5733.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\40e866c6-6b20-40a6-aa0e-916b4867f281IMG_5726.JPG",
+      "PackagePath": "staticwebassets\\uploads\\40e866c6-6b20-40a6-aa0e-916b4867f281IMG_5726.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\49976b9a-b497-4900-a155-80c6f525df38IMG_5732.JPG",
+      "PackagePath": "staticwebassets\\uploads\\49976b9a-b497-4900-a155-80c6f525df38IMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\4d68625f-6071-41c3-a1e9-c5376e225ce4IMG_5733.JPG",
+      "PackagePath": "staticwebassets\\uploads\\4d68625f-6071-41c3-a1e9-c5376e225ce4IMG_5733.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\54026ce4-337b-44d0-a079-3e938798cfbcIMG_5732.JPG",
+      "PackagePath": "staticwebassets\\uploads\\54026ce4-337b-44d0-a079-3e938798cfbcIMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\62fcadd5-22e1-4d92-b34d-41e3b0eb266aIMG_5736.JPG",
+      "PackagePath": "staticwebassets\\uploads\\62fcadd5-22e1-4d92-b34d-41e3b0eb266aIMG_5736.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\6c321ddd-ef38-4306-8d17-58a50688abd5IMG_5737.JPG",
+      "PackagePath": "staticwebassets\\uploads\\6c321ddd-ef38-4306-8d17-58a50688abd5IMG_5737.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\6c884a19-5503-45d3-9e73-9694a7806ee8IMG_5730.JPG",
+      "PackagePath": "staticwebassets\\uploads\\6c884a19-5503-45d3-9e73-9694a7806ee8IMG_5730.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\6da3375f-ac64-4cd9-933b-3fe3eb9a0751IMG_5736.JPG",
+      "PackagePath": "staticwebassets\\uploads\\6da3375f-ac64-4cd9-933b-3fe3eb9a0751IMG_5736.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\7ef97394-e1b7-4a32-bad8-e9757f932153IMG_5737.JPG",
+      "PackagePath": "staticwebassets\\uploads\\7ef97394-e1b7-4a32-bad8-e9757f932153IMG_5737.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\8d9c5c33-4764-48df-af59-a05e0c38138dIMG_5733.JPG",
+      "PackagePath": "staticwebassets\\uploads\\8d9c5c33-4764-48df-af59-a05e0c38138dIMG_5733.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\8dd4db48-e6a8-4f87-922e-dfac19b15493IMG_5735.JPG",
+      "PackagePath": "staticwebassets\\uploads\\8dd4db48-e6a8-4f87-922e-dfac19b15493IMG_5735.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\9a4a9d6a-6ea4-4835-818b-1c84260f0aa6IMG_5737.JPG",
+      "PackagePath": "staticwebassets\\uploads\\9a4a9d6a-6ea4-4835-818b-1c84260f0aa6IMG_5737.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\9c1b8151-0db6-43e2-90fe-fbc9d27e98baIMG_5731.JPG",
+      "PackagePath": "staticwebassets\\uploads\\9c1b8151-0db6-43e2-90fe-fbc9d27e98baIMG_5731.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\9f47221f-3b17-455b-95d5-341b44de110fIMG_5732.JPG",
+      "PackagePath": "staticwebassets\\uploads\\9f47221f-3b17-455b-95d5-341b44de110fIMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\a7a3ac84-1a2d-4dae-ba49-2856eefdf747IMG_5737.JPG",
+      "PackagePath": "staticwebassets\\uploads\\a7a3ac84-1a2d-4dae-ba49-2856eefdf747IMG_5737.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\aaeed3aa-94bc-4791-a528-f2e5e606f17aIMG_5725.JPG",
+      "PackagePath": "staticwebassets\\uploads\\aaeed3aa-94bc-4791-a528-f2e5e606f17aIMG_5725.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\b87db07a-eb55-4042-8b19-ca5467bb02deIMG_5732.JPG",
+      "PackagePath": "staticwebassets\\uploads\\b87db07a-eb55-4042-8b19-ca5467bb02deIMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\ce80e353-e4e3-472f-9c67-0aeaef021ec7IMG_5735.JPG",
+      "PackagePath": "staticwebassets\\uploads\\ce80e353-e4e3-472f-9c67-0aeaef021ec7IMG_5735.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\daa555df-5d2a-4b11-8eae-7064c9327180IMG_5730.JPG",
+      "PackagePath": "staticwebassets\\uploads\\daa555df-5d2a-4b11-8eae-7064c9327180IMG_5730.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\dd49d231-4eef-4316-80ed-33cfe801e575IMG_5732.JPG",
+      "PackagePath": "staticwebassets\\uploads\\dd49d231-4eef-4316-80ed-33cfe801e575IMG_5732.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\e4e830e6-05ed-4134-a25a-6f59a8a0d644IMG_5730.JPG",
+      "PackagePath": "staticwebassets\\uploads\\e4e830e6-05ed-4134-a25a-6f59a8a0d644IMG_5730.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\e822992d-acd8-4222-ad26-ec7fd4460fe1IMG_5734.JPG",
+      "PackagePath": "staticwebassets\\uploads\\e822992d-acd8-4222-ad26-ec7fd4460fe1IMG_5734.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\ebe6d79e-72a9-4e55-8bae-751858eed5cfIMG_5735.JPG",
+      "PackagePath": "staticwebassets\\uploads\\ebe6d79e-72a9-4e55-8bae-751858eed5cfIMG_5735.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\ed448d58-2750-45b8-ae16-9b0af3d1db48IMG_5734.JPG",
+      "PackagePath": "staticwebassets\\uploads\\ed448d58-2750-45b8-ae16-9b0af3d1db48IMG_5734.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\ef034945-7c17-4c06-b4ba-85973220e042IMG_5737.JPG",
+      "PackagePath": "staticwebassets\\uploads\\ef034945-7c17-4c06-b4ba-85973220e042IMG_5737.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\f18295b3-82c5-458c-b726-9a9a3951c820IMG_5734.JPG",
+      "PackagePath": "staticwebassets\\uploads\\f18295b3-82c5-458c-b726-9a9a3951c820IMG_5734.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\f33a21a6-118d-4004-a34a-91ed6797e3d1IMG_5726.JPG",
+      "PackagePath": "staticwebassets\\uploads\\f33a21a6-118d-4004-a34a-91ed6797e3d1IMG_5726.JPG"
+    },
+    {
+      "Id": "G:\\ProjectBig\\ProjectBig\\wwwroot\\uploads\\fbd124f4-901e-4cb3-a45a-820656fe81a2IMG_5731.JPG",
+      "PackagePath": "staticwebassets\\uploads\\fbd124f4-901e-4cb3-a45a-820656fe81a2IMG_5731.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectBig.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjectBig.props",
+      "PackagePath": "build\\ProjectBig.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectBig.props",
+      "PackagePath": "buildMultiTargeting\\ProjectBig.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjectBig.props",
+      "PackagePath": "buildTransitive\\ProjectBig.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

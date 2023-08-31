@@ -1,0 +1,1085 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Calling\\Calling\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Calling.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Calling.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\css\\tostr.css",
+      "PackagePath": "staticwebassets\\css\\tostr.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\js\\item.js",
+      "PackagePath": "staticwebassets\\js\\item.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\README.md"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Subject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Subject.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\package.json"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\HeaderNames.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HeaderNames.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\Polyfills.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Polyfills.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\Subject.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Subject.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\XhrHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\XhrHttpClient.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\lib\\microsoft\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\0df9601a-fa44-4a46-9f7d-6057ceaeded9anjanparajuli.png",
+      "PackagePath": "staticwebassets\\uploads\\0df9601a-fa44-4a46-9f7d-6057ceaeded9anjanparajuli.png"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\12cac18b-ef53-477a-aba0-c769ba579b19R.jpg",
+      "PackagePath": "staticwebassets\\uploads\\12cac18b-ef53-477a-aba0-c769ba579b19R.jpg"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\21c9ce87-02f3-4fb3-812d-745e7ef0303bPokhara.png",
+      "PackagePath": "staticwebassets\\uploads\\21c9ce87-02f3-4fb3-812d-745e7ef0303bPokhara.png"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\3645d924-32b7-4abc-9173-4bf791b11210IMG_5680.JPG",
+      "PackagePath": "staticwebassets\\uploads\\3645d924-32b7-4abc-9173-4bf791b11210IMG_5680.JPG"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\7988e0ff-70cc-4d71-8cb5-fa422c74971ddownload.png",
+      "PackagePath": "staticwebassets\\uploads\\7988e0ff-70cc-4d71-8cb5-fa422c74971ddownload.png"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\981765ad-ea71-4481-b88d-3b799ecc2870IMG_5680.JPG",
+      "PackagePath": "staticwebassets\\uploads\\981765ad-ea71-4481-b88d-3b799ecc2870IMG_5680.JPG"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\aeb7f355-6190-4740-85b9-8eb23ff793f7Pokhara.png",
+      "PackagePath": "staticwebassets\\uploads\\aeb7f355-6190-4740-85b9-8eb23ff793f7Pokhara.png"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\bc516671-e242-4c3a-88ff-d138f748d944anjanparajuli.png",
+      "PackagePath": "staticwebassets\\uploads\\bc516671-e242-4c3a-88ff-d138f748d944anjanparajuli.png"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\bdd45fbd-1538-46e4-b45e-41401dff7d93maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bdd45fbd-1538-46e4-b45e-41401dff7d93maxresdefault.jpg"
+    },
+    {
+      "Id": "G:\\Calling\\Calling\\wwwroot\\uploads\\e63cac52-9291-412d-aedd-82a02c4235e9anjanparajuli.png",
+      "PackagePath": "staticwebassets\\uploads\\e63cac52-9291-412d-aedd-82a02c4235e9anjanparajuli.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Calling.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Calling.props",
+      "PackagePath": "build\\Calling.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Calling.props",
+      "PackagePath": "buildMultiTargeting\\Calling.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Calling.props",
+      "PackagePath": "buildTransitive\\Calling.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

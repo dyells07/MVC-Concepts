@@ -1,0 +1,15 @@
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.csproj.AssemblyReference.cache
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.AssemblyInfoInputs.cache
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.AssemblyInfo.cs
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.csproj.CoreCompileInputs.cache
+G:\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.exe
+G:\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.deps.json
+G:\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.runtimeconfig.json
+G:\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.dll
+G:\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.pdb
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.dll
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\refint\ExamPreparation.dll
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.pdb
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.genruntimeconfig.cache
+G:\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ref\ExamPreparation.dll
